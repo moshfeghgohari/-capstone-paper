@@ -1,5 +1,5 @@
 # -capstone-paper
-Title: Usability evaluation in Holographic Augmented Reality applications
+Title: Usability in Holographic Augmented Reality applications
 
 
 BIOGRAPHY:
